@@ -3,7 +3,7 @@
 https://www.udemy.com/course/databricks-certified-data-engineer-associate-cert-prep/
 Master Databricks, Spark, Delta Lake, DLT, Lakeflow, SQL, ETL pipelines. Become databricks certified associate developer
 
-The lecture outlines the structure and key topics of the Databricks Certified Data Engineer Associate exam, which consists of 45 multiple-choice questions, lasts 90 minutes, and typically requires a passing score of 70-75%. The content is divided into seven sections:
+### The lecture outlines the structure and key topics of the Databricks Certified Data Engineer Associate exam, which consists of 45 multiple-choice questions, lasts 90 minutes, and typically requires a passing score of 70-75%. The content is divided into seven sections:
 
 1. **Databricks Intelligence Platform (6%)** : Focus on architecture and key components like Delta Lake and Unity Catalog.
 2. **Data Ingestion and Loading (21%)** : Methods such as batch, streaming, and incremental ingestion, along with tools like Lakeflow Connect and JDBC.
@@ -12,3 +12,15 @@ The lecture outlines the structure and key topics of the Databricks Certified Da
 5. **Implementing CI and CD (10%)** : Discusses Git integration and environment management.
 6. **Troubleshooting, Monitoring, and Optimization (10%)** : Focuses on job performance tracking and optimization techniques.
 7. **Governance and Security (15%)** : Involves user management, security policies, and data governance practices.
+
+### Tech list
+
+Delta Lake : Provides reliable data storage with ACID transactions and data consistency.
+
+Auto Loader : Incrementally ingests new files as they arrive in cloud storage.
+
+Delta Live Tables : A former name for Databricks declarative pipeline capabilities; now associated with Lakeflow Spark Declarative Pipelines.
+
+Unity Catalog : Centralized data governance, permissions, and discovery.
+
+SQL and dashboards : Support querying, analysis, and business reporting.

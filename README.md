@@ -57,3 +57,59 @@ SQL and dashboards : Support querying, analysis, and business reporting.
 |                  | Features         | Manage ML features                              |
 |                  | Models           | Manage registered ML models                     |
 |                  | Serving          | Deploy models and AI applications               |
+
+
+## Databricks Architecture
+
+```text
+                    DATABRICKS ARCHITECTURE
+                              |
+             +----------------+----------------+
+             |                                 |
+      CONTROL PLANE                     COMPUTE PLANE
+      (Management / Brain)              (Processing / Muscle)
+             |                                 |
+      - Web UI / Workspace              +------+------+
+      - Cluster management              |             |
+      - Security & access          CLASSIC       SERVERLESS
+      - Unity Catalog*               COMPUTE       COMPUTE
+      - Job / notebook metadata         |             |
+             |                    User's cloud   Databricks'
+             |                    account         cloud account
+             |                    (Azure/AWS/GCP) |
+             |                          |         |
+             |                    User manages   Databricks
+             |                    infrastructure manages
+             |                          |         |
+             +--------------------------+---------+
+                                        |
+                                 DATA PROCESSING
+                                 - Spark jobs
+                                 - SQL queries
+                                 - Filtering / aggregation
+                                        |
+                                  CLOUD STORAGE
+                                  - Business data
+                                  - Tables / files
+                                  - Logs and metadata
+```
+
+### Key Concepts
+
+| Component | Purpose |
+|---|---|
+| Control plane | Manages the workspace, orchestration, configuration, and access controls. |
+| Compute plane | Executes Spark jobs, SQL queries, and data transformations. |
+| Classic compute | Compute resources run in the customer's cloud environment. |
+| Serverless compute | Databricks manages the underlying compute infrastructure. |
+| Storage | Holds business data, tables, files, and relevant system data. |
+
+### Exam Memory Tips
+
+- **Control plane = Brain** → management and coordination.
+- **Compute plane = Muscle** → executes processing.
+- **Classic = Your car** → resources in your cloud environment.
+- **Serverless = Taxi** → Databricks manages the infrastructure.
+- **Storage = Warehouse** → persists data and files.
+
+*Note: Unity Catalog is a governance service managed through the control plane, while data access and enforcement can also involve compute and storage components. Databricks system storage and customer data storage are not necessarily the same location.*

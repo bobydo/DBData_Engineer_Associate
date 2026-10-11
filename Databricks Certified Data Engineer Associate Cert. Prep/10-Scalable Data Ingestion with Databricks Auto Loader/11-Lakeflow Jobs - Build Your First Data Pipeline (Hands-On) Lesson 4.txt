@@ -1,0 +1,6 @@
+Course: Databricks Certified Data Engineer Associate Cert. Prep
+Chapter: Scalable Data Ingestion with Databricks Auto Loader
+Lecture: Lakeflow Jobs - Build Your First Data Pipeline (Hands-On) Lesson 4
+----------------------------------------
+
+[No transcript available for this lecture]

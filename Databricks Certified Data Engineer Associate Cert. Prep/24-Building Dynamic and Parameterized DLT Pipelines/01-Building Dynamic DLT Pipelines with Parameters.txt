@@ -1,0 +1,6 @@
+Course: Databricks Certified Data Engineer Associate Cert. Prep
+Chapter: Building Dynamic and Parameterized DLT Pipelines
+Lecture: Building Dynamic DLT Pipelines with Parameters
+----------------------------------------
+
+[No transcript available for this lecture]

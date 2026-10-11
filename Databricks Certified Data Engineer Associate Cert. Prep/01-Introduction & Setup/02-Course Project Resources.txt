@@ -1,0 +1,6 @@
+Course: Databricks Certified Data Engineer Associate Cert. Prep
+Chapter: Introduction & Setup
+Lecture: Course Project Resources
+----------------------------------------
+
+[No transcript available for this lecture]

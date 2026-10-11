@@ -1,0 +1,6 @@
+Course: Databricks Certified Data Engineer Associate Cert. Prep
+Chapter: Analytics, Dashboards, and AI with Databricks SQL
+Lecture: From Queries to Alarms – Lesson 1
+----------------------------------------
+
+[No transcript available for this lecture]

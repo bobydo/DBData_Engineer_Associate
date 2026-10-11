@@ -1,0 +1,6 @@
+Course: Databricks Certified Data Engineer Associate Cert. Prep
+Chapter: Extra
+Lecture: Databricks Certified Data Engineer Associate Cert. Prep
+----------------------------------------
+
+[No transcript available for this lecture]

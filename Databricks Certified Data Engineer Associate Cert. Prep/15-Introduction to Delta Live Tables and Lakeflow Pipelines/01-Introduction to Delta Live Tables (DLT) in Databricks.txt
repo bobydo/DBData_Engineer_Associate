@@ -1,0 +1,6 @@
+Course: Databricks Certified Data Engineer Associate Cert. Prep
+Chapter: Introduction to Delta Live Tables and Lakeflow Pipelines
+Lecture: Introduction to Delta Live Tables (DLT) in Databricks
+----------------------------------------
+
+[No transcript available for this lecture]

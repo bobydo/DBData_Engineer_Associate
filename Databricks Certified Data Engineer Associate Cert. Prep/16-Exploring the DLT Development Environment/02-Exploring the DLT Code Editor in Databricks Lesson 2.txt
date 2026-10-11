@@ -1,0 +1,6 @@
+Course: Databricks Certified Data Engineer Associate Cert. Prep
+Chapter: Exploring the DLT Development Environment
+Lecture: Exploring the DLT Code Editor in Databricks Lesson 2
+----------------------------------------
+
+[No transcript available for this lecture]

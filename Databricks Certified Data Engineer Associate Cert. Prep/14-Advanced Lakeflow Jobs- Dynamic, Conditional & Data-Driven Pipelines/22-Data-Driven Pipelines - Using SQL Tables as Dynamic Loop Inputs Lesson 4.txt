@@ -1,0 +1,6 @@
+Course: Databricks Certified Data Engineer Associate Cert. Prep
+Chapter: Advanced Lakeflow Jobs: Dynamic, Conditional & Data-Driven Pipelines
+Lecture: Data-Driven Pipelines - Using SQL Tables as Dynamic Loop Inputs Lesson 4
+----------------------------------------
+
+[No transcript available for this lecture]

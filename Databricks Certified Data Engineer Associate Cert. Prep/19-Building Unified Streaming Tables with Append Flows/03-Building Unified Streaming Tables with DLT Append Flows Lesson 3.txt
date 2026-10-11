@@ -1,0 +1,6 @@
+Course: Databricks Certified Data Engineer Associate Cert. Prep
+Chapter: Building Unified Streaming Tables with Append Flows
+Lecture: Building Unified Streaming Tables with DLT Append Flows Lesson 3
+----------------------------------------
+
+[No transcript available for this lecture]

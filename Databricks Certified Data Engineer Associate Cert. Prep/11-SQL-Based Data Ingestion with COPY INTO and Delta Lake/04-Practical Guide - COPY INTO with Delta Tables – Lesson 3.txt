@@ -1,0 +1,6 @@
+Course: Databricks Certified Data Engineer Associate Cert. Prep
+Chapter: SQL-Based Data Ingestion with COPY INTO and Delta Lake
+Lecture: Practical Guide - COPY INTO with Delta Tables – Lesson 3
+----------------------------------------
+
+[No transcript available for this lecture]

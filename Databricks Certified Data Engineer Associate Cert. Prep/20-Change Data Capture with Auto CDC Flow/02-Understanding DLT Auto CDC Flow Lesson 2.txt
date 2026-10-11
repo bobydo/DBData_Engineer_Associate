@@ -1,0 +1,6 @@
+Course: Databricks Certified Data Engineer Associate Cert. Prep
+Chapter: Change Data Capture with Auto CDC Flow
+Lecture: Understanding DLT Auto CDC Flow Lesson 2
+----------------------------------------
+
+[No transcript available for this lecture]

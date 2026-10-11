@@ -1,0 +1,6 @@
+Course: Databricks Certified Data Engineer Associate Cert. Prep
+Chapter: Ensuring Data Quality in Delta Live Tables
+Lecture: Ensuring Data Quality in Delta Live Tables
+----------------------------------------
+
+[No transcript available for this lecture]

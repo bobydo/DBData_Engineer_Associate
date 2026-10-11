@@ -1,0 +1,6 @@
+Course: Databricks Certified Data Engineer Associate Cert. Prep
+Chapter: Building Streaming Data Pipelines with Auto Loader
+Lecture: Building Streaming Pipelines from Files using Auto Loader Lesson 4
+----------------------------------------
+
+[No transcript available for this lecture]

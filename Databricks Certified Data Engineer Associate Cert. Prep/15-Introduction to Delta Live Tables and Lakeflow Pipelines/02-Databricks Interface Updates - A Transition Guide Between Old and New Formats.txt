@@ -1,0 +1,6 @@
+Course: Databricks Certified Data Engineer Associate Cert. Prep
+Chapter: Introduction to Delta Live Tables and Lakeflow Pipelines
+Lecture: Databricks Interface Updates - A Transition Guide Between Old and New Formats
+----------------------------------------
+
+[No transcript available for this lecture]

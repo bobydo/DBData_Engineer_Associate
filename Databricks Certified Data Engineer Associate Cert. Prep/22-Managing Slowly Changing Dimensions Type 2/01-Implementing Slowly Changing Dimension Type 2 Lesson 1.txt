@@ -1,0 +1,6 @@
+Course: Databricks Certified Data Engineer Associate Cert. Prep
+Chapter: Managing Slowly Changing Dimensions Type 2
+Lecture: Implementing Slowly Changing Dimension Type 2 Lesson 1
+----------------------------------------
+
+[No transcript available for this lecture]

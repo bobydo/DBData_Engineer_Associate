@@ -2,6 +2,8 @@
 
 https://www.udemy.com/course/databricks-certified-data-engineer-associate-cert-prep/
 https://www.reddit.com/r/databricks/comments/1r5vcnb/cleared_databricks_data_engineer_associate_here/
+
+Extract udemy course transscripts: [chromewebstore.google.com/detail/udemy-transcript-extracto/oimlbilmdnimabebeilpndlndfoepopd](https://chromewebstore.google.com/detail/udemy-transcript-extracto/oimlbilmdnimabebeilpndlndfoepopd)
 Master Databricks, Spark, Delta Lake, DLT, Lakeflow, SQL, ETL pipelines. Become databricks certified associate developer
 
 ### The lecture outlines the structure and key topics of the Databricks Certified Data Engineer Associate exam, which consists of 45 multiple-choice questions, lasts 90 minutes, and typically requires a passing score of 70-75%. The content is divided into seven sections:
@@ -25,7 +27,6 @@ Delta Live Tables : A former name for Databricks declarative pipeline capabiliti
 Unity Catalog : Centralized data governance, permissions, and discovery.
 
 SQL and dashboards : Support querying, analysis, and business reporting.
-
 
 # Databricks Menu Summary
 
@@ -58,7 +59,6 @@ SQL and dashboards : Support querying, analysis, and business reporting.
 |                  | Features         | Manage ML features                              |
 |                  | Models           | Manage registered ML models                     |
 |                  | Serving          | Deploy models and AI applications               |
-
 
 ## Databricks Architecture
 
@@ -97,13 +97,13 @@ SQL and dashboards : Support querying, analysis, and business reporting.
 
 ### Key Concepts
 
-| Component | Purpose |
-|---|---|
-| Control plane | Manages the workspace, orchestration, configuration, and access controls. |
-| Compute plane | Executes Spark jobs, SQL queries, and data transformations. |
-| Classic compute | Compute resources run in the customer's cloud environment. |
-| Serverless compute | Databricks manages the underlying compute infrastructure. |
-| Storage | Holds business data, tables, files, and relevant system data. |
+| Component          | Purpose                                                                   |
+| ------------------ | ------------------------------------------------------------------------- |
+| Control plane      | Manages the workspace, orchestration, configuration, and access controls. |
+| Compute plane      | Executes Spark jobs, SQL queries, and data transformations.               |
+| Classic compute    | Compute resources run in the customer's cloud environment.                |
+| Serverless compute | Databricks manages the underlying compute infrastructure.                 |
+| Storage            | Holds business data, tables, files, and relevant system data.             |
 
 ### Exam Memory Tips
 

@@ -24,3 +24,36 @@ Delta Live Tables : A former name for Databricks declarative pipeline capabiliti
 Unity Catalog : Centralized data governance, permissions, and discovery.
 
 SQL and dashboards : Support querying, analysis, and business reporting.
+
+
+# Databricks Menu Summary
+
+| Category         | Menu             | Purpose                                         |
+| ---------------- | ---------------- | ----------------------------------------------- |
+| Main             | New              | Create new resources                            |
+|                  | Home             | Main landing page                               |
+|                  | Learn            | Tutorials and learning materials                |
+|                  | Workspace        | Manage notebooks and files                      |
+|                  | Recents          | Access recently used items                      |
+|                  | Catalog          | Browse and govern data assets                   |
+|                  | Jobs & Pipelines | Schedule and orchestrate workflows              |
+|                  | Compute          | Manage compute resources                        |
+|                  | Discover         | Explore data and platform features              |
+|                  | Marketplace      | Find shared datasets and solutions              |
+| SQL              | SQL Editor       | Write and execute SQL queries                   |
+|                  | Queries          | Save and manage SQL queries                     |
+|                  | Dashboards       | Visualize data using charts and tables          |
+|                  | Genie Agents     | Ask natural-language questions and generate SQL |
+|                  | Alerts           | Notify users when query conditions are met      |
+|                  | Query History    | Review executed queries                         |
+|                  | SQL Warehouses   | Provide compute for SQL workloads               |
+| Data Engineering | Runs             | Monitor job and pipeline executions             |
+|                  | Data Ingestion   | Import data from external sources               |
+|                  | Visual Data Prep | Clean and transform data visually               |
+| AI/ML            | Playground       | Experiment with AI models and prompts           |
+|                  | Agents           | Build AI agents to perform tasks                |
+|                  | AI Gateway       | Govern and manage AI model access               |
+|                  | Experiments      | Track machine learning experiments              |
+|                  | Features         | Manage ML features                              |
+|                  | Models           | Manage registered ML models                     |
+|                  | Serving          | Deploy models and AI applications               |

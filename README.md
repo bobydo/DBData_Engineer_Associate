@@ -6,6 +6,30 @@ https://www.reddit.com/r/databricks/comments/1r5vcnb/cleared_databricks_data_eng
 Extract udemy course transscripts: [chromewebstore.google.com/detail/udemy-transcript-extracto/oimlbilmdnimabebeilpndlndfoepopd](https://chromewebstore.google.com/detail/udemy-transcript-extracto/oimlbilmdnimabebeilpndlndfoepopd)
 Master Databricks, Spark, Delta Lake, DLT, Lakeflow, SQL, ETL pipelines. Become databricks certified associate developer
 
+**How I’m using AI to prepare for the Databricks Certified Data Engineer Associate exam**
+
+I wanted to make my exam preparation more structured than simply watching videos and memorizing practice questions.
+
+Here’s the approach I’ve been experimenting with:
+
+🔹 **Extract course transcripts** — I used an extension to extract transcripts from the training videos, making the content easier to search, review, and organize.
+
+🔹 **Start with the official exam guide** — This helps keep my study plan aligned with the published exam objectives.
+
+🔹 **Learn from community experiences** — I reviewed a Reddit post from someone who recently took the exam to identify topics and question styles worth paying extra attention to. Community experiences are useful clues, not a guarantee of what will appear on the exam.
+
+🔹 **Use ChatGPT to generate practice questions** — I combined these materials to create multiple-choice questions, answer keys, and explanations, with an emphasis on understanding concepts and making careful decisions between plausible answers.
+
+🔹 **Practice beyond memorization** — The goal is to understand *why* an answer is correct, recognize common pitfalls, and apply concepts to realistic data engineering scenarios.
+
+What interests me most is that AI can help turn learning materials into a more organized, interactive study process—not just summarize content.
+
+I’m still working through the material, and I’ll share more about the process and lessons learned as I progress.
+
+**How are you using AI to make technical certification preparation more effective?**
+
+#Databricks #DataEngineering #GenerativeAI #ChatGPT #ContinuousLearning
+
 ### The lecture outlines the structure and key topics of the Databricks Certified Data Engineer Associate exam, which consists of 45 multiple-choice questions, lasts 90 minutes, and typically requires a passing score of 70-75%. The content is divided into seven sections:
 
 1. **Databricks Intelligence Platform (6%)** : Focus on architecture and key components like Delta Lake and Unity Catalog.

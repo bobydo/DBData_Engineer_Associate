@@ -1,0 +1,12 @@
+1. Runtime ML vs. Standard Runtime
+- Standard Runtime: General data engineering and Spark workloads.
+- Runtime ML: ML-specific libraries and machine learning workloads.
+- Exam trap: Don't assume every ML workload requires GPUs. Runtime ML can be useful without GPUs.
+2. Photon
+- Accelerates SQL queries and DataFrame operations, especially large joins, aggregations, and scans.
+- Simple workloads may see little improvement.
+- Exam clue: A large SQL workload is running slowly → consider Photon.
+3. Autoscaling vs. Auto-termination
+Feature	Purpose
+Autoscaling	Adds or removes workers as workload demand changes.
+Auto-termination	Shuts down compute after a period of inactivity to reduce costs.
